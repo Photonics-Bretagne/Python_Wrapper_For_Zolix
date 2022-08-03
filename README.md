@@ -28,7 +28,7 @@ Run the framework installing .exe file [dotNetFx40_Full_x86_x64](Dependencies)
 
 Install the USB driver. Designate the ZOLIX [USB_driver_folder](Dependencies/Driver_USB_Zolix) when Windows detects the USB connection.
 
-Install the OmniSpec SDK setup [“Setup.exe”](Dependencies/Omnispec-Setup)
+Install the OmniSpec SDK setup [“Setup.exe”](Dependencies/OmniSpec-Setup)
 
 Install the Gateway Setup Zolix Server Setup v1.0.
 
