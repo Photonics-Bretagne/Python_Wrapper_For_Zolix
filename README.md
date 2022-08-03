@@ -26,13 +26,13 @@ Download the repository on your PC
 
 Run the framework installing .exe file [dotNetFx40_Full_x86_x64](Dependencies)
 
-Install the USB driver. Designate the ZOLIX [USB_driver_folder](\Dependencies\Driver_USB_Zolix) when Windows detects the USB connection.
+Install the USB driver. Designate the ZOLIX [USB_driver_folder](Dependencies\Driver_USB_Zolix) when Windows detects the USB connection.
 
-Install the OmniSpec SDK setup [“Setup.exe”](\Dependencies\Omnispec-Setup)
+Install the OmniSpec SDK setup [“Setup.exe”](Dependencies\Omnispec-Setup)
 
 Install the Gateway Setup Zolix Server Setup v1.0.
 
-Integrate the [zolix_gateway library](\Dependencies\Python_Zolix_Gateway) into your PYTHON 
+Integrate the [zolix_gateway library](Dependencies\Python_Zolix_Gateway) into your PYTHON 
 
 
 ## fast use ##
@@ -60,9 +60,9 @@ the server is now operationnal
 
 ### run python example ###
 
-To run first instruction from python to the monochromator you can use the python  script[example.py](\Dependencies\Python_Zolix_Gateway\zolix\app)
+To run first instruction from python to the monochromator you can use the python  script[example.py](Dependencies\Python_Zolix_Gateway\zolix\app)
 
-All usable  python functions are stored in the [zolix_gateway](\Dependencies\Python_Zolix_Gateway\zolix\app) python library. For more documentation about these function you can check the [EN-OperationManual_ZolixOmniSpec](\documentation\EN-OperationManual_ZolixOmniSpec.pdf)
+All usable  python functions are stored in the [zolix_gateway](Dependencies\Python_Zolix_Gateway\zolix\app) python library. For more documentation about these function you can check the [EN-OperationManual_ZolixOmniSpec](documentation\EN-OperationManual_ZolixOmniSpec.pdf)
 
 
 
