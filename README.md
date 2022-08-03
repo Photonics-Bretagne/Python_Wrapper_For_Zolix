@@ -24,7 +24,7 @@ Follow these steps to install
 
 Download the repository on your PC 
 
-Run the framework installing .exe file [dotNetFx40_Full_x86_x64](\Dependencies)
+Run the framework installing .exe file [dotNetFx40_Full_x86_x64](Dependencies)
 
 Install the USB driver. Designate the ZOLIX [USB_driver_folder](\Dependencies\Driver_USB_Zolix) when Windows detects the USB connection.
 
