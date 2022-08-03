@@ -44,7 +44,7 @@ connect the monochromator in usb to the PC and turn on it.
 Run the "serveur Zolix" application 
 
 <p align="center">
-<img src="imgs/server_app.png" alt="IHM server" width="500"/>
+<img src="imgs/server_app.PNG" alt="IHM server" width="500"/>
 </p>
 
 
