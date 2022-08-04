@@ -21,19 +21,19 @@ The principle of the driver wrapper consists in using a server conected to the O
 
 ![principle](https://user-images.githubusercontent.com/109954983/182817681-e01ca204-67ed-4063-b23f-8a0a64f46ede.png)
 
-> **_NOTE:_** Up to now, the computer where the server is hosted, is running on Windows OS. 
+> **_NOTE:_** Up to now, the computer where the server is hosted is running on Windows OS. 
 
 ## Installation ##
 
 Please follow these steps:
 
-Install the [Microsoft .NET Framework 4.0 x64](Dependencies).
+Install the [Microsoft .NET Framework 4.0 x64](Dependencies/Microsoft_NET_Framework/dotNetFx40_Full_x86_x64.exe).
 
-Download the [USB driver folder](Dependencies/Driver_USB_Zolix) for Zolix instruments. To install the driver, locate the folder path (e.g., C:\Users\%currentuser%\Desktop\Driver98-2k-xp-w7) after plugging the Zolix instrument.
+Download the [USB driver folder](Dependencies/Driver_USB_Zolix/) for Zolix instruments. To install the driver, locate the folder path (e.g., C:\Users\%currentuser%\Desktop\Drivers\98-2k-xp-w7) after plugging the Zolix instrument.
 
-Install the [OmniSpec SDK setup](Dependencies/OmniSpec-Setup).
+Install the [OmniSpec SDK setup](Dependencies/OmniSpec/setup.exe).
 
-Install the [Zolix server](Dependencies).
+Install the [Zolix server](Dependencies/Zolix_Server/Setup%20Serveur%20Zolix%20v1.0.0.exe).
 
 Download the [Zolix gateway library](Dependencies/Python_Zolix_Gateway). Include it into your Python folder. 
 
