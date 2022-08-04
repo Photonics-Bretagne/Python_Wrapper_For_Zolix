@@ -45,7 +45,7 @@ Run the Zolix server by double clicking on the icon Serveur Zolix.
 
 After lauching the Zolix server, click on the "démarrer" button in the user interface.
 
-![server_gui](https://user-images.githubusercontent.com/109954983/182817871-4fe6b416-fa54-4dc7-9c9b-64268619fc65.png)
+![server_gui](https://user-images.githubusercontent.com/109954983/182818212-74fab258-bb9d-4e29-a309-c1385cedaa43.png)
 
 The server communication is now working.
 
