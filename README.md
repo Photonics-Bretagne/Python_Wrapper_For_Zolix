@@ -15,7 +15,9 @@ In this project, we implemented a Python-based driver to control the Omni-λ mon
 
 The principle of the driver wrapper consists in using a server conected to the Omni-λ monochromator with OmniSpec USB drivers. And, the server communicates instruction through a Python code.
 
-![principle](https://user-images.githubusercontent.com/109954983/182815979-f2818e88-b0cf-41bd-83db-95e011d6a1fb.png)
+<p align="center">
+<img src="[imgs/server_app.png](https://user-images.githubusercontent.com/109954983/182815979-f2818e88-b0cf-41bd-83db-95e011d6a1fb.png)" alt="principle" width="500"/>
+</p>
 
 > **_NOTE:_** Up to now, the computer where the server is hosted, is running on Windows OS. 
 
