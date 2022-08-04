@@ -53,7 +53,7 @@ Run the Zolix server by double clicking on the icon Serveur Zolix.
 After lauching the Zolix server, click on the "démarrer" button in the user interface.
 
 <p align="center">
-<img src="imgs/server_gui.png" alt="server_gui" width="500"/>
+<img src="imgs/server_gui.png" alt="server_gui" width="600"/>
 </p>
 
 The server communication is now working.
