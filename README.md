@@ -15,7 +15,7 @@ In this project, we implemented a Python-based driver to control the Omni-λ mon
 
 The principle of the driver wrapper consists in using a server conected to the Omni-λ monochromator with OmniSpec USB drivers. And, the server communicates instruction through a Python code.
 
-![principle](https://user-images.githubusercontent.com/109954983/182817480-3f2ae4e9-9fdf-4b3a-a214-f6f85a1bb379.png)
+![principle](https://user-images.githubusercontent.com/109954983/182817681-e01ca204-67ed-4063-b23f-8a0a64f46ede.png)
 
 > **_NOTE:_** Up to now, the computer where the server is hosted, is running on Windows OS. 
 
@@ -41,13 +41,11 @@ First, make sure that the Zolix monochromator is connected to the PC. And, make 
 
 Run the Zolix server by double clicking on the icon Serveur Zolix.
 
-![principle](https://user-images.githubusercontent.com/109954983/182815875-5b32c591-83cb-44be-ac04-8f4b5be302f4.png)
+![server_app](https://user-images.githubusercontent.com/109954983/182817992-c83d428b-ffe5-4205-83ca-6b21ee097e2d.PNG)
 
 After lauching the Zolix server, click on the "démarrer" button in the user interface.
 
-<p align="center">
-<img src="imgs/server_gui.png" alt="IHM server" width="500"/>
-</p>
+![server_gui](https://user-images.githubusercontent.com/109954983/182817871-4fe6b416-fa54-4dc7-9c9b-64268619fc65.png)
 
 The server communication is now working.
 
