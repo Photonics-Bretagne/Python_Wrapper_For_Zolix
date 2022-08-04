@@ -4,7 +4,7 @@ Driver wrapper for Omni-λ Zolix monochromator
 
 ## Introduction/Principle ##
 
-this repo contain all files needed to control  Omni-λ Zolix monochromator in python.
+this repo contains all files needed to control  Omni-λ Zolix monochromator in python.
 
 the principle is to use a server conected to the monochromator with ominspec and send python instruction as client to the server.
 
@@ -20,7 +20,7 @@ the principle is to use a server conected to the monochromator with ominspec and
 
 ## Installation ##
 
-Follow these steps to install 
+Follow these steps to install usb drivers omnispec and the server
 
 Download the repository on your PC 
 
