@@ -62,7 +62,7 @@ The server communication is now working.
 
 ### Communicate using Python ###
 
-You can first communicate with the Zolix monochromator using the [example python script](Dependencies/Python_Zolix_Gateway/zolix/app) and follow the instructions.
+You can first communicate with the Zolix monochromator using the [example python script](Dependencies/Python_Zolix_Gateway/zolix/app/example.py) and follow the instructions.
 
 Then, you can use more functions available in the library [zolix/app folder](Dependencies/Python_Zolix_Gateway/zolix/app). More information about these functions can be retrieved here [EN-OperationManual_ZolixOmniSpec](documentation/EN-OperationManual_ZolixOmniSpec.pdf)
 
