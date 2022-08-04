@@ -44,9 +44,7 @@ First, make sure that the Zolix monochromator is connected to the PC. And, make 
 
 Run the Zolix server by double clicking on the icon Serveur Zolix.
 
-<p align="center">
-<img src="imgs/server_app.png" alt="IHM server" width="500"/>
-</p>
+![principle](https://user-images.githubusercontent.com/109954983/182815875-5b32c591-83cb-44be-ac04-8f4b5be302f4.png)
 
 After lauching the Zolix server, click on the "démarrer" button in the user interface.
 
