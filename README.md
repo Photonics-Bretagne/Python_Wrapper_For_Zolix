@@ -29,7 +29,7 @@ Please follow these steps:
 
 Install the [Microsoft .NET Framework 4.0 x64](Dependencies/Microsoft_NET_Framework/dotNetFx40_Full_x86_x64.exe).
 
-Download the [USB driver folder](Dependencies/Driver_USB_Zolix/) for Zolix instruments. To install the driver, locate the folder path (e.g., C:\Users\%currentuser%\Desktop\Drivers\98-2k-xp-w7) after plugging the Zolix instrument.
+Download the [USB driver folder](Dependencies/Driver_USB_Zolix/) for Zolix instruments. To install the driver, locate the folder path (e.g., C:\Users\\%currentuser%\Desktop\Drivers\98-2k-xp-w7) after plugging the Zolix instrument.
 
 Install the [OmniSpec SDK setup](Dependencies/OmniSpec/setup.exe).
 
