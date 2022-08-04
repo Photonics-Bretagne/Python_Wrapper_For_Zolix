@@ -27,15 +27,15 @@ The principle of the driver wrapper consists in using a server conected to the O
 
 Please follow these steps:
 
-Install the Microsoft .NET Framework 4.0 using this link [dotNetFx40_Full_x86_x64](Dependencies).
+Install the [Microsoft .NET Framework 4.0 x64](Dependencies).
 
-Download the folder with the USB driver for Zolix instruments using this link [USB_driver_folder](Dependencies/Driver_USB_Zolix). To install the driver, locate the folder where USB driver is stored in your computer (e.g. C:\Users\%currentuser%\Desktop\Driver98-2k-xp-w7) after plugging the Zolix instrument.
+Download the [USB driver folder](Dependencies/Driver_USB_Zolix) for Zolix instruments. To install the driver, locate the folder path (e.g., C:\Users\%currentuser%\Desktop\Driver98-2k-xp-w7) after plugging the Zolix instrument.
 
-Install the OmniSpec SDK setup [“Setup.exe”](Dependencies/OmniSpec-Setup).
+Install the [OmniSpec SDK setup](Dependencies/OmniSpec-Setup).
 
-Install the Zolix server setup using this link [Setup Serveur Zolix v1.0.0](Dependencies).
+Install the [Zolix server](Dependencies).
 
-Download the Zolix gateway library using this link [zolix_gateway library](Dependencies/Python_Zolix_Gateway). Include it into your Python folder. 
+Download the [Zolix gateway library](Dependencies/Python_Zolix_Gateway). Include it into your Python folder. 
 
 ## Quick start ##
 
@@ -57,9 +57,9 @@ The server communication is now working.
 
 ### Communicate using Python ###
 
-You can first communicate with the Zolix monochromator using the example python script [example.py](Dependencies/Python_Zolix_Gateway/zolix/app) and follow the instructions. 
+You can first communicate with the Zolix monochromator using the [example python script](Dependencies/Python_Zolix_Gateway/zolix/app) and follow the instructions.
 
-Then, you can use more functions available in the library zolix/app folder [zolix_gateway](Dependencies/Python_Zolix_Gateway/zolix/app). More information about these functions can be retrieved here [EN-OperationManual_ZolixOmniSpec](documentation/EN-OperationManual_ZolixOmniSpec.pdf)
+Then, you can use more functions available in the library [zolix/app folder](Dependencies/Python_Zolix_Gateway/zolix/app). More information about these functions can be retrieved here [EN-OperationManual_ZolixOmniSpec](documentation/EN-OperationManual_ZolixOmniSpec.pdf)
 
 ## About us ##
 
