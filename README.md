@@ -13,7 +13,7 @@ The [Omni-λ monochromators](http://zolix.com.cn/en/prodcon_370_376_741.html) fr
 
 C++ and Delphi drivers allow users to control the Zolix monochromators and to design their own acquisition programs.
 
-In this project, we implemented a Python-based driver to control the Omni-λ monochromators. This repository contains all files you need.
+In this project, we implemented a Python-based driver to control the Omni-λ monochromators.
 
 ## Principle ##
 
