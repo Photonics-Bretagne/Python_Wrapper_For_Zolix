@@ -1,3 +1,5 @@
+![principle](https://user-images.githubusercontent.com/109954983/182814355-eca601c0-97a8-49f5-9409-452c239ab721.png)
+![server_gui](https://user-images.githubusercontent.com/109954983/182814361-f4347d1a-3178-49a3-b240-15ba425936f5.png)
 # Python_Wrapper_For_Zolix
 Driver wrapper for Omni-λ Zolix monochromator 
 
