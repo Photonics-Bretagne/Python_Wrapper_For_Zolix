@@ -66,6 +66,10 @@ You can first communicate with the Zolix monochromator using the [example python
 
 Then, you can use more functions available in the library [zolix/app folder](Dependencies/Python_Zolix_Gateway/zolix/app). More information about these functions can be retrieved here [EN-OperationManual_ZolixOmniSpec](documentation/EN-OperationManual_ZolixOmniSpec.pdf)
 
+## Funding ##
+
+This project was partially funded by FEDER (grant number 1110/EU001051/00065007) and by Région Bretagne.
+
 ## About us ##
 
 Photonics Bretagne is a research and technology organisation (RTO), based in Lannion (France). In partnership with Arvalis institute, the biophotonic team of Photonics Bretagne aims at increasing the development of light-based technologies for life sciences such as agriculture, biomedical, agri-food, and environment. More information are available on our [website](https://www.photonics-bretagne.com/en/about-photonics-bretagne/).
