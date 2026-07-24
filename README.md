@@ -74,4 +74,6 @@ This project was partially funded by FEDER (grant number 1110/EU001051/00065007)
 
 Photonics Bretagne is a research and technology organisation (RTO), based in Lannion (France). In partnership with Arvalis institute, the biophotonic team of Photonics Bretagne aims at increasing the development of light-based technologies for life sciences such as agriculture, biomedical, agri-food, and environment. More information are available on our [website](https://www.photonics-bretagne.com/en/about-photonics-bretagne/).
 
+This work was performed in collaboration with [VFI System](https://www.vfi-system.com/).
+
 In France, Zolix instruments are distributed by [Idil Fibres Optiques](https://www.idil-fibres-optiques.com/fr/product/zolix-instruments-france-2/).
